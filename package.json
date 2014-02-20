@@ -1,0 +1,9 @@
+{
+"name": "sane-chat",
+"version": "0.0.1",
+"description": "A sane multi-user chat",
+"dependencies": {
+  "socket.io": "~0.9.6",
+  "mime": "~1.2.7"
+  }
+}
